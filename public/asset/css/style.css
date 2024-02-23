@@ -1,0 +1,7 @@
+.carousel-item img {
+    width: 100%;  /* Mengatur lebar gambar menjadi 100% dari lebar elemen parent */
+    height: auto; /* Mengatur tinggi gambar secara otomatis berdasarkan lebar gambar */
+    max-height: 300px; /* Mengatur tinggi maksimum gambar */
+    object-fit: cover; /* Membuat gambar selalu menutupi elemen parent tanpa mengubah rasio aspek */
+}
+
